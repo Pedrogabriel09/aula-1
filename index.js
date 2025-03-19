@@ -2,7 +2,7 @@
 //PASSO 2 verificar se o numero repetido é igual aos outros
 //PASSO 3 excluir o numero repetido
 //PASSO 4 retornar os numeros não repetidos e dizer quantos foram deletados
-var numbers = [8, 7, 55, 1, 3, 1, 4, 5, 66, 7, 66, 1300, 1, 5];
+var numbers = [8, 7, 55, 1, 3, 1, 8, 5, 66, 7, 66, 1300, 8, 5];
 var deletedCount = 0;
 numbers.sort(function (a, b) { return a - b; });
 var i;

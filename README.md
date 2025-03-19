@@ -8,3 +8,4 @@
 
 - baixar do github
 - git clone <url_github>
+- git pull
